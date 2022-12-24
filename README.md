@@ -1,6 +1,6 @@
-# **Pointilism Simulator**
+# **Pygame Pointilism Simulator**
 ### Description
-Program that produces a pointilistic image of the given image. More on pointilism https://en.wikipedia.org/wiki/Pointillism.
+Pygame program that produces a pointilistic image of the given image. More on pointilism https://en.wikipedia.org/wiki/Pointillism.
 ### How to execute
 Enter the following in a console directed to location of your image: 
 > python pointilism.py {filename} {OPTIONAL: filename2}
